@@ -12,10 +12,52 @@ Mi objetivo es seguir avanzando en mi carrera profesional dentro de estas áreas
 ¿Qué es [Talento Tech](https://talentotech.gov.co/portal/)?
 - Talento Tech es un programa de capacitación diseñado para cultivar y potenciar el talento digital emergente del país. A través de un riguroso entrenamiento inspirado en la metodología de bootcamps, nuestro objetivo es dotar a los participantes de habilidades digitales avanzadas, competencias interpersonales, dominio del inglés y experiencia en el desarrollo de proyectos. Nuestra misión es preparar a estos futuros profesionales para integrarse con éxito en el exigente mercado laboral tecnológico.
 
-El grupo AVDV2 – 47 (Análisis y visualización de datos), está conformado por los Campistas Tech desde su rol de estudiantes, así como de mí, en mi posición como docente. A continuación, se detallan las características principales del contenido del programa que serán vistas a lo largo de las 8 semanas de duración del bootcamps:
+El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por los Campistas Tech en su rol de estudiantes, así como por mí en mi función de docente. A continuación, se presentan las características principales del contenido del programa que se abordarán a lo largo de las 8 semanas de duración del bootcamp:
 
 ## Módulo 1: Refinamiento De Técnicas De Análisis De Datos:
 -	Integración de datos de diversas fuentes y formatos.
 -	Métodos de recolección y limpieza de datos.
 -	Exploración inicial de dichas fuentes de datos.
 -	Laboratorio 1
+
+## Módulo 2: Técnicas De Limpieza, Normalización Y Estandarización De Datos:
+- Identificación de datos faltantes y limpieza de datos anómalos o erróneos.
+- Normalización y estandarización de datos.
+- Validación de la limpieza, transformación de Datos y aplicación de técnicas estadísticas básicas en conjuntos de datos
+- Laboratorio 2
+
+## Módulo 3: Programación Intermedia Para Análisis De Datos:
+- Análisis exploratorio de datos.
+- Análisis de datos multivariante.
+- Manipulación y visualización de datos con Python.
+- Laboratorio 3
+
+## Módulo 4: Visualización de datos - Intermedio:
+- Diseño efectivo de visualizaciones de datos.
+- Herramientas de visualización intermedias - Power BI
+- Creación de dashboards y visualizaciones interactivas. Uso de conceptos de torytelling con datos y presentación efectiva de análisis.
+- Laboratorio 4
+
+## Módulo 5: Machine Learning Para Análisis De Datos:
+- Conceptos de Machine Learning.
+- Modelos de clasificación y regresión.
+- Interpretación y comunicación de resultados de modelos.
+- Laboratorio 5
+
+## Módulo 6: Aplicaciones Prácticas Y Casos De Estudio:
+- Análisis de datos en diferentes industrias (finanzas, marketing, salud).
+- Implementación de la metodología CRISP-DM.
+- Uso de análisis de datos en toma de decisiones y estrategia empresarial.
+- Desafíos éticos en análisis de datos y privacidad.
+- Laboratorio 6
+
+## Módulo 7: Proyecto final - Parte 1:
+- Selección de sector a trabajar y consumo de las fuentes de datos de interés.
+- Implementación de metodología CRISP-DM.
+- Definición de alcance y objetivos sobre dicho conjunto de datos, construcción de plan de trabajo (Cronograma de actividades) y diccionario de datos.
+- Laboratorio 7
+
+## Módulo 8: Proyecto final - Parte 2
+- Desarrollo de aplicación estadística descriptiva y/o inferencial.
+- Ponencia de solución desarrollada.
+- Laboratorio 8
