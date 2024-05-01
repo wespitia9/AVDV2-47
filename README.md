@@ -14,6 +14,9 @@ Mi objetivo es seguir avanzando en mi carrera profesional dentro de estas áreas
 
 El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por los Campistas Tech en su rol de estudiantes, así como por mí en mi función de docente. A continuación, se presentan las características principales del contenido del programa que se abordarán a lo largo de las 8 semanas de duración del bootcamp:
 
+## Recursos:
+- [Fuentes de datos](https://drive.google.com/drive/folders/1ti_Yhd47B2mOxC1ohcfCfoYvkRcS77YB)
+
 ## Módulo 1: Refinamiento de técnicas de análisis de datos:
 -	Integración de datos de diversas fuentes y formatos.
 -	Métodos de recolección y limpieza de datos.
