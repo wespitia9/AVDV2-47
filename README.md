@@ -14,19 +14,19 @@ Mi objetivo es seguir avanzando en mi carrera profesional dentro de estas áreas
 
 El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por los Campistas Tech en su rol de estudiantes, así como por mí en mi función de docente. A continuación, se presentan las características principales del contenido del programa que se abordarán a lo largo de las 8 semanas de duración del bootcamp:
 
-## Módulo 1: Refinamiento De Técnicas De Análisis De Datos:
+## Módulo 1: Refinamiento de técnicas de análisis de datos:
 -	Integración de datos de diversas fuentes y formatos.
 -	Métodos de recolección y limpieza de datos.
 -	Exploración inicial de dichas fuentes de datos.
 -	Laboratorio 1
 
-## Módulo 2: Técnicas De Limpieza, Normalización Y Estandarización De Datos:
+## Módulo 2: Técnicas de limpieza, normalización y estandarización de datos:
 - Identificación de datos faltantes y limpieza de datos anómalos o erróneos.
 - Normalización y estandarización de datos.
 - Validación de la limpieza, transformación de Datos y aplicación de técnicas estadísticas básicas en conjuntos de datos
 - Laboratorio 2
 
-## Módulo 3: Programación Intermedia Para Análisis De Datos:
+## Módulo 3: Programación intermedia para análisis de datos:
 - Análisis exploratorio de datos.
 - Análisis de datos multivariante.
 - Manipulación y visualización de datos con Python.
@@ -38,13 +38,13 @@ El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por 
 - Creación de dashboards y visualizaciones interactivas. Uso de conceptos de torytelling con datos y presentación efectiva de análisis.
 - Laboratorio 4
 
-## Módulo 5: Machine Learning Para Análisis De Datos:
+## Módulo 5: Machine Learning para análisis de datos:
 - Conceptos de Machine Learning.
 - Modelos de clasificación y regresión.
 - Interpretación y comunicación de resultados de modelos.
 - Laboratorio 5
 
-## Módulo 6: Aplicaciones Prácticas Y Casos De Estudio:
+## Módulo 6: Aplicaciones prácticas y casos de estudio:
 - Análisis de datos en diferentes industrias (finanzas, marketing, salud).
 - Implementación de la metodología CRISP-DM.
 - Uso de análisis de datos en toma de decisiones y estrategia empresarial.
