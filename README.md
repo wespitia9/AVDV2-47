@@ -16,7 +16,7 @@ El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por 
 
 ## Recursos:
 - [Fuentes de datos](https://drive.google.com/drive/folders/1ti_Yhd47B2mOxC1ohcfCfoYvkRcS77YB)
-- [Repositorio](https://nbviewer.org/github/wespitia9/AVDV2-47/tree/main/) 
+- https://nbviewer.org/github/wespitia9/AVDV2-47/tree/main/ 
 
 ## Módulo 1: Refinamiento de técnicas de análisis de datos:
 -	Integración de datos de diversas fuentes y formatos.
