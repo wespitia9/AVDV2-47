@@ -62,6 +62,12 @@ El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por 
 - Selección de sector a trabajar y consumo de las fuentes de datos de interés.
 - Implementación de metodología CRISP-DM.
 - Definición de alcance y objetivos sobre dicho conjunto de datos, construcción de plan de trabajo (Cronograma de actividades) y diccionario de datos.
+- Fuentes de datos recomendados:
+    - [Portal de Datos Abiertos del Sector Ambiente](https://siac-datosabiertos-mads.hub.arcgis.com/)
+    - [Servicio Geológico Colombiano](https://datos.sgc.gov.co/)
+    - [Datos Abiertos Geográficos](https://datos.icde.gov.co/)
+    - [Estado Abierto en América Latina y el Caribe](https://biblioguias.cepal.org/EstadoAbierto/herramientas/portales-de-informacion)
+    - [Datos Abiertos Superintendencia de Servicios Públicos Domiciliarios](https://sui.superservicios.gov.co/Datos-abiertos)
 - Laboratorio 7
 
 ## Módulo 8: Proyecto final - Parte 2
