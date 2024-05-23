@@ -68,6 +68,7 @@ El grupo AVDV2 – 47 (Análisis y Visualización de Datos) está compuesto por 
     - [Datos Abiertos Geográficos](https://datos.icde.gov.co/)
     - [Estado Abierto en América Latina y el Caribe](https://biblioguias.cepal.org/EstadoAbierto/herramientas/portales-de-informacion)
     - [Datos Abiertos Superintendencia de Servicios Públicos Domiciliarios](https://sui.superservicios.gov.co/Datos-abiertos)
+    - [Censo Colombia Viviendas Consolidado departamentos](https://www.kaggle.com/code/hanstoquica/notebook-sociodemography-i2ds-dv/input)
 - Laboratorio 7
 
 ## Módulo 8: Proyecto final - Parte 2
